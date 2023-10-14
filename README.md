@@ -5,4 +5,4 @@ Dashboard Public link; https://public.tableau.com/views/DASHBOARD_16966679415150
 
 story public link; https://public.tableau.com/views/TheTableauHRScorecardMeasuringsuccessintalentManagement/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-vedio demonstration link; https://drive.google.com/file/d/1TQLqjUgSthNTeM2_XRCqAwbrGChkM5I/view?usp=sharing
+vedio demonstration link; https://drive.google.com/file/d/1DBTHt1MSYX5UcesohK3Fw7RuxbrKz8lV/view?usp=drivesdk
